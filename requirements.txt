@@ -1,0 +1,14 @@
+setuptools
+scikit-learn
+pandas
+numpy
+pyarrow
+matplotlib
+seaborn
+notebook
+ensure
+python-box
+PyYAML
+fastapi[all]
+Jinja2
+-e .
